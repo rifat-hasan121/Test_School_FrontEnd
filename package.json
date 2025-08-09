@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
@@ -18,7 +17,9 @@
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-redux": "^9.2.0",
-    "react-router": "^7.8.0"
+    "react-router": "^7.8.0",
+    "react-toastify": "^11.0.5",
+    "sweetalert2": "^11.22.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.32.0",
